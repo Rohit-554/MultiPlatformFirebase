@@ -43,6 +43,12 @@ It is designed as a reference or starter for anyone wiring Firebase Storage into
 
 ---
 
+## Demo 
+<img width="800" height="720" alt="Screenshot 2026-07-03 at 9 29 10 PM" src="https://github.com/user-attachments/assets/8ab14aae-9c5f-4136-932d-21935c561d03" />
+
+
+---
+
 ## Tech Stack
 
 | Concern | Library | Version |
@@ -172,8 +178,11 @@ See the list of people who have helped in **[CONTRIBUTORS.md](CONTRIBUTORS.md)**
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
+---
 <div align="center">
 
-Made with Kotlin Multiplatform
+Project Generated via CATYLST KMP STARTER - Android Studio Plugin
+
+Made with ❤️ by Jadu
 
 </div>
